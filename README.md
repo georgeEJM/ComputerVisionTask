@@ -1,3 +1,3 @@
-# ComputerVisionTask
+# Computer Vision Task
 
-My submission for the Image Processing module in my third year at the University of Lincoln.
+Files submitted in completion of the machine learning module undertaken in my third year at the University of Lincoln
